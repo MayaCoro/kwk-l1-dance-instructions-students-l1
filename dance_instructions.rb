@@ -1,4 +1,4 @@
-def Gangnam_Style
+def gangnam_style
   puts "Plant legs far apart, bend knees slightly and keep posture loose"
   puts "Lift right foot"
   puts "Return right foot to the ground"
@@ -16,5 +16,5 @@ def Gangnam_Style
   puts "Lift right arm up and point right elbow diagonally to the right."
   puts "Raise right forearm so that it points straight up, and whip it in small circles to the beat of the song, as if you were a cowboy holding a rope lasso. This movement is repeated eight times as well."
 end
-Gangnam_Style
+gangnam_style
 # Code your methods below
