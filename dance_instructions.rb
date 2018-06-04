@@ -10,5 +10,6 @@ def Gangnam Style
   puts "Bounce right foot back up slightly, kicking it a few inches back"
   puts "Right, Left, Right and Right"
   puts "Holding your arms out in front of you, straight and at chest level"
+  puts "Cross your right wrist over your left and hold them together"
   puts ""
 # Code your methods below
